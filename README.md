@@ -47,15 +47,15 @@ Cada visualización fue estilizada siguiendo una paleta de colores definida y se
 
 ## Estructura del Proyecto
 
-El código principal se encuentra en un notebook de Google Colab (enlace o nombre del archivo del notebook).
+El código principal se encuentra en un notebook de Google Colab.
 
-*   `[Nombre_del_Notebook].ipynb`: Archivo principal de Google Colab conteniendo el código Python para la carga de datos, preprocesamiento, análisis exploratorio, creación de visualizaciones y exportación.
+*   `IA_aplicada_a_ciencia_de_datos.ipynb`: Archivo principal de Google Colab conteniendo el código Python para la carga de datos, preprocesamiento, análisis exploratorio, creación de visualizaciones y exportación.
 *   `README.md`: Este archivo, proporcionando una descripción del proyecto.
-*   `grafico_[nombre_funcion].png`: Imágenes exportadas de cada visualización.
+*   Imágenes exportadas de cada visualización.
 
 ## Cómo Ejecutar el Proyecto
 
-1.  Abre el archivo `[Nombre_del_Notebook].ipynb` en Google Colab.
+1.  Abre el archivo `IA_aplicada_a_ciencia_de_datos.ipynb` en Google Colab.
 2.  Asegúrate de tener instaladas las bibliotecas necesarias (Pandas, Matplotlib, Seaborn). En Google Colab, estas suelen estar preinstaladas.
 3.  Ejecuta las celdas en secuencia para cargar los datos, realizar el preprocesamiento, generar las visualizaciones y exportar las imágenes.
 
@@ -74,10 +74,8 @@ Este proyecto es un ejercicio guiado de visualización de datos con asistencia d
 
 ## Licencia
 
-Este proyecto se encuentra bajo la Licencia [Especifica la licencia, por ejemplo, MIT].
+Este proyecto se encuentra bajo la Licencia de Alura Latam.
 
 ---
 
-**Nota:** Reemplaza `[Nombre_del_Notebook].ipynb` con el nombre real de tu archivo de notebook en Google Colab. Asegúrate de subir también las imágenes PNG generadas a tu repositorio para que aparezcan en el README. Puedes crear una carpeta (por ejemplo, `images`) y ajustar las rutas en el README para mostrar las imágenes directamente.
-
-Espero que este README sea un buen punto de partida para tu repositorio de GitHub. ¡Felicidades por completar el proyecto!
+**Nota:** Reemplaza `IA_aplicada_a_ciencia_de_datos.ipynb` con el nombre real de tu archivo de notebook en Google Colab. Asegúrate de subir también las imágenes PNG generadas a tu repositorio para que aparezcan en el README. Puedes crear una carpeta (por ejemplo, `images`) y ajustar las rutas en el README para mostrar las imágenes directamente.
